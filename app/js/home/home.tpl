@@ -28,14 +28,23 @@
 </div>
 <div class="main-container">
   <header class="header-main fixedMenu">
-    <div class="startelLogo"> <a class="navlink" title="Sapient Razorfish">SAPIENT<br>RAZORFISH<span class="colored">_</span></a> </div>
-    <div class="nav">
+    <div class="startelLogo"> <a class="navlink" title="Sapient Razorfish">SAPIENT<br>RAZORFISH<span class="colored">_</span></a> </div><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+    <!-- <div class="nav">
       <ul>
         <li><a>SERVICES</a></li>
         <li><a>CONTACT</a></li>
         <li><a>MORE</a></li>
       </ul>
-    </div>
+    </div> -->
+    <div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Clients</a>
+    <a href="#">Contact</a>
+  </div>
+</div>
   </header>
   <div class="container">
     <div class="row">
