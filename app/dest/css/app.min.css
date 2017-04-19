@@ -15078,10 +15078,10 @@ body::-webkit-scrollbar-thumb:hover {
   padding-right: 400px; }
 
 .conLogoImg {
-  width: 50%;
+  width: 60%;
   height: 152px;
   padding-top: 50px;
-  padding-right: 15%; }
+  padding-right: 8%; }
 
 .conTxt {
   width: 65%;
@@ -15112,8 +15112,8 @@ body::-webkit-scrollbar-thumb:hover {
   margin-top: 120px;
   text-align: left;
   width: 100%;
-  max-width: 1040px;
-  margin-left: 17%; }
+  max-width: 1010px;
+  margin-left: 16%; }
   .containerThree .conHead {
     font-weight: 400;
     font-family: miller, "Times New Roman", serif;
@@ -15207,12 +15207,9 @@ body::-webkit-scrollbar-thumb:hover {
 
 #bubbles1 {
   position: fixed;
-  /*z-index: 101;*/
   left: -62%;
   top: 258%;
-  /*width: 356px;
-  height: 356px;*/
-  /*background: url(imgs/figures-layer01.png) no-repeat;*/
+  width: 25%;
   -webkit-transform: translateZ(-1px);
   transform: translateZ(-1px); }
 
@@ -15373,3 +15370,9 @@ body::-webkit-scrollbar-thumb:hover {
 @media screen and (max-width: 600px) {
   .logoImage {
     display: none; } }
+
+.top {
+  display: block; }
+
+.fixed {
+  display: none; }

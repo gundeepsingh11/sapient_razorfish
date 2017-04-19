@@ -20,8 +20,8 @@
       <img src="app/imgs/downArrow.png" alt="downArrow" style="width: 45px;">
     </div>
     <div scroll>
-    <div  class="logoSlide">
-      <img id="myP" src="app/imgs/big-logo.png" alt="SapientRazorfish"  class="logoImage">
+    <div  class="logoSlide" id="myP">
+      <img src="app/imgs/big-logo.png" alt="SapientRazorfish"  class="logoImage top">
     </div>
     </div>
   </div>
