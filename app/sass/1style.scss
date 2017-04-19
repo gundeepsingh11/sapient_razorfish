@@ -563,3 +563,8 @@ body::-webkit-scrollbar-thumb:hover {
     right: 35px;
   }
 }
+@media screen and (max-width: 600px) {
+  .logoImage{
+    display: none;
+  }
+}
