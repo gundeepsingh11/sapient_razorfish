@@ -58,15 +58,13 @@ body::-webkit-scrollbar-thumb:hover {
   background-color: black; }
 
 .logoImage {
-  width: 642px;
+  width: 50%;
   height: 152px;
-  margin-top: 100px;
   padding-right: 0;
   padding-bottom: 23%;
   margin-left: 2%;
   position: fixed;
   display: block;
-  top: 800px;
   transform: translateZ(-2px) scale(3); }
 
 .loaded #loader-wrapper {
@@ -196,7 +194,7 @@ body::-webkit-scrollbar-thumb:hover {
   padding-right: 400px; }
 
 .conLogoImg {
-  width: 642px;
+  width: 50%;
   height: 152px;
   padding-top: 50px;
   padding-right: 15%; }
