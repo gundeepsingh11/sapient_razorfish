@@ -141,7 +141,7 @@
     <p>As people's expectations evolve with every new digital experience, and business success relies more heavily than ever on a digitally-centric organization, SapientRazorfish takes a no-silo, enterprise-wide view of both the experience of the customer and the digital operations critical to make it efficient and effective. As pioneers of the digital brand-consumer relationship, we partner with our clients to leverage the connected world to create outcomes of uncommon impact.</p>
   </div>
   <div class="parallaxGroup">
-    <div class="footerTxt section" style="width: 100%; height: 80%; margin-top: 25%; min-height: 145%;">
+    <div class="footerTxt section txt1">
       <h1>Interested in
         <br> working together?</h1>
       <ul>
