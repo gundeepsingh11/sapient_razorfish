@@ -15376,4 +15376,8 @@ body::-webkit-scrollbar-thumb:hover {
   .section ul {
     display: none; }
   .section txt1 {
-    min-height: 0; } }
+    min-height: 0; }
+  .conLogoImg {
+    height: auto; }
+  .footerTxt .fotterlogoImage {
+    height: auto; } }
