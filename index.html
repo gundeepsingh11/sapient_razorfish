@@ -30,13 +30,25 @@
   <div ui-view="" layout="column" class="parent-ui-view m-t-20"></div>
   <script type="text/javascript" src="app/dest/js/app.min.js"></script>
   <script type="text/javascript">
-  function openNav() {
-    document.getElementById("myNav").style.width = "100%";
-  }
 
-  function closeNav() {
-    document.getElementById("myNav").style.width = "0%";
-  }
+  function openNav() {
+    document.getElementById("myNav").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
+    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+}
+
+function closeNav() {
+    document.getElementById("myNav").style.width = "0";
+    document.getElementById("main").style.marginLeft= "0";
+    document.body.style.backgroundColor = "white";
+}
+  // function openNav() {
+  //   document.getElementById("myNav").style.width = "100%";
+  // }
+
+  // function closeNav() {
+  //   document.getElementById("myNav").style.width = "0%";
+  // }
   window.onscroll = function() {
     scrollFunction();
     myFunction();

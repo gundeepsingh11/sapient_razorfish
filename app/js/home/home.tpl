@@ -13,6 +13,7 @@
   <div class="grid-element extra">Extra Content</div>
   <div class="grid-element footer">Footer</div>
 </div> -->
+<div id="main">
 <div class="banner">
   <div>
     <img class="bannerLogo" src="app/imgs/img_parallax.jpg">
@@ -168,4 +169,5 @@
   <div class="footerTwo"> </div>
   <div class="circle2">
     <img src="app/imgs/figures-layer02.png" style="width: 56%; height: 200%;"> </div>
+</div>
 </div>
