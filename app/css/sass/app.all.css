@@ -490,4 +490,8 @@ body::-webkit-scrollbar-thumb:hover {
   .conLogoImg {
     height: auto; }
   .footerTxt .fotterlogoImage {
-    height: auto; } }
+    height: auto; }
+  .containerThree {
+    margin-left: 10%; }
+  .section h1 {
+    margin-left: 10%; } }
